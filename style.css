@@ -1,0 +1,105 @@
+body{
+   background-color: #e9edf0;
+   font-family: Arial, Helvetica, sans-serif;
+       
+}
+a:link, a:visited, a:active {
+    text-decoration:none;
+}
+
+#container-header{
+    background-color: #233040;
+    width: 100%;
+    
+}
+
+#top-logo{
+    width: 100px;
+    margin: 20px;
+    padding: 0;
+}
+
+
+.navbar{
+    background-color: #364757;
+    height: 20px;
+    padding: 5px;
+
+}
+.navbar-top-link{
+    color: aliceblue;
+    margin-left: 20px;
+}
+
+#banner-top{
+    background-color: #f56600;
+    color: white;
+    margin: 20px;
+    text-align: center;
+    padding: 5px;
+}
+#banner-center{
+    background-image: url(bg-image.png);
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+#container-img{
+    background-color: white;
+    margin: 20px;
+    height: 380px;
+    padding: 20px;
+
+}
+
+.shop-button{
+    color: #368395;
+    padding: 5px;
+    font-weight: bold;
+}
+
+.perfect-gift-img{
+    width: 300px;
+    border-radius: 8%;
+    height: 350px;
+    margin: 10px 25px 0px 0px;
+    object-fit: cover;
+    box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.15);
+
+}
+
+.container-big-img{
+    margin: 20px;
+    text-align: center;
+}
+
+.big-img{
+    width: 100%;
+}
+
+.navbar-bottom{
+background-color: #364757;
+height: 20px;
+padding: 5px;
+text-align: center;
+color: aliceblue;
+}
+
+#navbar-bottom-link{
+    color: aliceblue;
+
+}
+
+#container-footer{
+    background-color: #233040;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+}
+
+#bottom-logo{
+    width: 100px;
+    margin-top: 30px;
+    
+}
